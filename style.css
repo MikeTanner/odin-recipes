@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+}
+ul {
+    color: brown;
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+.tacos {
+    font-size: 20px;
+}
+.chili {
+    font-size: 15px;
+
+}
+.steak {
+    font-size: 10px;
+}
